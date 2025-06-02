@@ -1,9 +1,9 @@
 # AdventureWorks
 Este proyecto consiste en el diseño y desarrollo de un dashboard interactivo en Power BI, utilizando como fuente de datos la base AdventureWorksDW2022. El objetivo principal es visualizar y analizar el comportamiento de las ventas a nivel global, por canal, región y perfil del cliente.
 
-🛠 Herramientas utilizadas
+Herramientas utilizadas:
 Power BI Desktop
-Aplicación gratuita descargada desde la aplicacion de la MicrosoftStore.
+Aplicación gratuita descargada desde la aplicacion de la Microsoft Store.
 
 Base de datos: AdventureWorksDW2022
 Descargada desde el sitio oficial de Microsoft en formato .bak y restaurada en SQL Server.
